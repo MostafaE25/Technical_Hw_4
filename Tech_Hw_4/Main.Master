@@ -11,7 +11,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1 style ="color:blue"> Master Page </h1>
+            <h1 style ="color:blue"> Pet Med Master Page </h1>
             <div style="display:flex;flex-direction:row;justify-content:space-around;width:25%;">
                 <a href="Vet.aspx">Vet Page</a>
                 <a href="Order.aspx">Order Page</a>
